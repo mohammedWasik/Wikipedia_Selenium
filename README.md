@@ -25,7 +25,6 @@ cd Wikipedia_Selenium
 
 ```
 mvn clean install
-
 ```
 ### Configure Properties
 Edit the config.properties file in resources/ to update browser settings and URLs.
